@@ -47,7 +47,7 @@ $ txffp etc --auth user:password
 查看2018年5月份，etcid为xxx的开票记录信息：
 
 ```
-$ txffp record --month 201805 --id xxx --auth user:password
+$ txffp record --month 201805 --etcid xxx --auth user:password
 ```
 
 下载2018年5月份的全部发票并合并：
